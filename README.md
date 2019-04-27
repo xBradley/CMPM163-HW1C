@@ -3,6 +3,13 @@ Cellular Automata
 
 https://xbradley.github.io/CMPM163-HW1C/
 
+## Types
+Upper Left Cube:  <br/>
+Upper Right Cube:  <br/>
+Lower Left Cube:  <br/>
+Lower Right Cube:  <br/>
+Background:  <br/>
+
 
 ## Screenshots
 ![Final](Screenshots/cellularAutomata.png)
