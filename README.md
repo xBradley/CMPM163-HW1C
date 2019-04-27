@@ -4,11 +4,11 @@ Cellular Automata
 https://xbradley.github.io/CMPM163-HW1C/
 
 ## Types
-Upper Left Cube:  <br/>
-Upper Right Cube:  <br/>
-Lower Left Cube:  <br/>
-Lower Right Cube:  <br/>
-Background:  <br/>
+Upper Left Cube:  Island Cellular Automata <br/>
+Upper Right Cube: Static with Vertical Line Effect <br/>
+Lower Left Cube:  Horizontal Line Automata <br/>
+Lower Right Cube: Static Effect  <br/>
+Background:       Colorful Cellular Automata <br/>
 
 
 ## Screenshots
